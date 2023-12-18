@@ -1,0 +1,3 @@
+[submodule "resolver/foundry-book"]
+	path = resolver/foundry-book
+	url = git@github.com:foundry-rs/book.git
